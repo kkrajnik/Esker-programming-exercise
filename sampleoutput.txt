@@ -1,0 +1,14 @@
+Line Count: 6
+Character count: 112
+Letter count: 85
+Number Count: 5
+Other Characters: 22
+Word Count: 19
+Number of 1 letter words: 1
+Number of 2 letter words: 4
+Number of 3 letter words: 2
+Number of 4 letter words: 6
+Number of 6 letter words: 1
+Number of 7 letter words: 3
+Number of 9 letter words: 1
+Number of 10 letter words: 1
